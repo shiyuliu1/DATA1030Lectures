@@ -1,0 +1,3 @@
+# DATA1030Lectures
+
+Data 1030 Lecture: HANDS-ON DATA SCIENCE
